@@ -1,0 +1,3 @@
+Flask==x.x.x
+joblib==x.x.x
+# and any other libraries you used for your model
